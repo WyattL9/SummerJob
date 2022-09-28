@@ -2,6 +2,7 @@
 // Date:08/31/22
 // Program Title: Summer Job Calculator
 // Program Description:Calculates a weekly wage given an hourly payrate, a number of hours, and a number of different things the user needs to pay 
+// hi
 
 #include <iostream>
 #include <string>
